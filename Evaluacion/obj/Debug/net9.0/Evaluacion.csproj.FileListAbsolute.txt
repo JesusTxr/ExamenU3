@@ -1,0 +1,17 @@
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.AssemblyInfoInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.AssemblyInfo.cs
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.csproj.AssemblyReference.cache
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\bin\Debug\net9.0\Evaluacion.exe
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\bin\Debug\net9.0\Evaluacion.deps.json
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\bin\Debug\net9.0\Evaluacion.runtimeconfig.json
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\bin\Debug\net9.0\Evaluacion.dll
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\bin\Debug\net9.0\Evaluacion.pdb
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.csproj.Up2Date
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.dll
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\refint\Evaluacion.dll
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.pdb
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\Evaluacion.genruntimeconfig.cache
+C:\Users\chuch\OneDrive\Documentos\Practicas 4.1\Evaluacion\obj\Debug\net9.0\ref\Evaluacion.dll

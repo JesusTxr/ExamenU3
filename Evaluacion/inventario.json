@@ -1,0 +1,32 @@
+[
+  {
+    "Codigo": "1234",
+    "Nombre": "Coca",
+    "CantidadStock": 9,
+    "PrecioUnitario": 25.0
+  },
+  {
+    "Codigo": "1782",
+    "Nombre": "Pan",
+    "CantidadStock": 26,
+    "PrecioUnitario": 5.5
+  },
+  {
+    "Codigo": "7890",
+    "Nombre": "Cereal",
+    "CantidadStock": 14,
+    "PrecioUnitario": 50.0
+  },
+  {
+    "Codigo": "1234",
+    "Nombre": "Coca",
+    "CantidadStock": 7,
+    "PrecioUnitario": 25.0
+  },
+  {
+    "Codigo": "126",
+    "Nombre": "Jamon",
+    "CantidadStock": 8,
+    "PrecioUnitario": 50.0
+  }
+]
